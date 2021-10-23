@@ -1,4 +1,4 @@
-## Repository strategy
+## Repository Strategy Guide
 
 This document describes the repository strategy for projects.
 
