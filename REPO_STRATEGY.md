@@ -1,3 +1,5 @@
+## Repository strategy
+
 This document describes the repository strategy for projects.
 
 ### General conventions
