@@ -5,4 +5,4 @@
   * Game development.
   * Web development.
 
-Here you can find interesting stuff like the [Branch Strategy](REPO_STRATEGY.md) I use, as well as some good [PR TEMPLATES](/PR_TEMPLATES/README.md) and some other things.
+Here you can find interesting stuff like the [Branch Strategy](REPO_STRATEGY.md) I use, as well as some good [PR TEMPLATES](/PR_TEMPLATES) and some other things.
